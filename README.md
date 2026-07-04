@@ -1,9 +1,9 @@
-# 3. Chatbot (README.md)
+3. Chatbot 
 
 ````markdown
-# CodeAlpha Chatbot
+ CodeAlpha Chatbot
 
-## Overview
+ Overview
 
 The Chatbot is a simple rule-based conversational application developed using Python as part of the CodeAlpha Python Programming Internship. The chatbot interacts with users through predefined responses based on user input.
 
@@ -11,7 +11,7 @@ The project demonstrates Python fundamentals including conditional statements, l
 
 The chatbot responds to common greetings and simple questions, making it an excellent beginner project for understanding interactive console applications.
 
-## Features
+Features
 
 - Interactive conversation
 - Greeting responses
@@ -21,11 +21,11 @@ The chatbot responds to common greetings and simple questions, making it an exce
 - Continuous conversation until exit
 - Beginner-friendly design
 
-## Technologies Used
+Technologies Used
 
 - Python 3
 
-## Learning Outcomes
+ Learning Outcomes
 
 Through this project, the following concepts were practiced:
 
@@ -37,7 +37,7 @@ Through this project, the following concepts were practiced:
 - Interactive programming
 - Logical decision making
 
-## How to Run
+How to Run
 
 1. Install Python 3.
 2. Clone or download this repository.
@@ -50,7 +50,7 @@ python chatbot.py
 
 5. Start chatting with the chatbot through the console.
 
-## Future Improvements
+ Future Improvements
 
 - AI-powered responses
 - Natural Language Processing (NLP)
@@ -60,6 +60,6 @@ python chatbot.py
 - Chat history
 - API integration
 
-## Author
+ Author
 
 Developed by **Teesha Kumari** as part of the **CodeAlpha Python Programming Internship**.
